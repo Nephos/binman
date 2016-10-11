@@ -40,6 +40,11 @@ For examples of input and output files, see "From the command line" below.
   * [Ruby] 1.8.7 or newer
   [Ruby]: https://www.ruby-lang.org/
 
+  * [Rubygems] 2.5.2 or newer
+  ```
+  gem update --system
+  ```
+
 ### For users
 
 If you only want to view pre-built manual pages:
